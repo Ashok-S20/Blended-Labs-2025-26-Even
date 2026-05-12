@@ -1,4 +1,4 @@
-# Lab 4 – Working with Amazon Elastic Block Store (EBS)
+<img width="1919" height="967" alt="1" src="https://github.com/user-attachments/assets/515de198-ed34-47f5-81fa-72382e4b6786" /># Lab 4 – Working with Amazon Elastic Block Store (EBS)
 
 ## Author
 
@@ -134,17 +134,15 @@ This confirmed that the EBS volume provides persistent storage even after instan
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
-
-<img width="1919" height="900" alt="Screenshot 2026-02-27 172622" src="https://github.com/user-attachments/assets/ddb7602a-a68d-412d-8a83-62c0a1f7542f" />
-<img width="1919" height="807" alt="Screenshot 2026-02-27 175202" src="https://github.com/user-attachments/assets/6c115ad9-53ef-46c4-8f51-cea91598e9f4" />
-<img width="1919" height="806" alt="Screenshot 2026-02-27 175217" src="https://github.com/user-attachments/assets/5d815992-d70d-41a4-8138-d6d2f308ab56" />
+<img width="1919" height="967" alt="1" src="https://github.com/user-attachments/assets/d53adbcf-2dfd-4170-a5b3-401bc0e3f488" />
+<img width="1919" height="748" alt="2" src="https://github.com/user-attachments/assets/98f647b3-a2d3-4b90-83b5-aee7d21c19ce" />
+<img width="1919" height="749" alt="3" src="https://github.com/user-attachments/assets/9909e348-f7ba-4057-8ab5-5eb10605f9cc" />
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
-<img width="1918" height="1039" alt="Screenshot 2026-02-27 174352" src="https://github.com/user-attachments/assets/b6302d99-e3fb-48df-8ba8-4554b69cf666" />
-<img width="1908" height="1032" alt="Screenshot 2026-02-27 174834" src="https://github.com/user-attachments/assets/36bea19d-73ee-47b3-bd4d-3558e835f600" />
-
+<img width="1918" height="965" alt="4" src="https://github.com/user-attachments/assets/507f6d08-c317-451f-8d2e-ad7f616fb5e8" />
+<img width="1908" height="970" alt="5" src="https://github.com/user-attachments/assets/26e71380-ce6a-4807-be24-4fc70d4869a4" />
 
 ---
 

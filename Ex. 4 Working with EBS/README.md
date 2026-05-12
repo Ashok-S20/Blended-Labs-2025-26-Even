@@ -135,7 +135,7 @@ This confirmed that the EBS volume provides persistent storage even after instan
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-<img width="1919" height="1029" alt="Screenshot 2026-02-27 172622" src="https://github.com/user-attachments/assets/ddb7602a-a68d-412d-8a83-62c0a1f7542f" />
+<img width="1919" height="900" alt="Screenshot 2026-02-27 172622" src="https://github.com/user-attachments/assets/ddb7602a-a68d-412d-8a83-62c0a1f7542f" />
 <img width="1919" height="807" alt="Screenshot 2026-02-27 175202" src="https://github.com/user-attachments/assets/6c115ad9-53ef-46c4-8f51-cea91598e9f4" />
 <img width="1919" height="806" alt="Screenshot 2026-02-27 175217" src="https://github.com/user-attachments/assets/5d815992-d70d-41a4-8138-d6d2f308ab56" />
 

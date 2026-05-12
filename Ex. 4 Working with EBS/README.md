@@ -1,4 +1,4 @@
-<img width="1919" height="967" alt="1" src="https://github.com/user-attachments/assets/515de198-ed34-47f5-81fa-72382e4b6786" /># Lab 4 – Working with Amazon Elastic Block Store (EBS)
+Elastic Block Store (EBS)
 
 ## Author
 

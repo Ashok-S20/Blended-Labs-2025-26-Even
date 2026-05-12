@@ -1,10 +1,10 @@
-# Lab 5 – Build a Database Server (AWS)
+[# Lab 5 – Build a Database Server (AWS)
 
 ## Author
 
-* **Name**: HARIPRIYA E
-* **Register Number**: 212223060083
-* **Date of Submission**: 17.03.2026
+* **Name**: ASHOK S
+* **Register Number**: 212224040031
+* **Date of Submission**: 12.05.2026
 
 ---
 
@@ -94,14 +94,14 @@ Test the database server by connecting to it locally or remotely and performing 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
+<img width="1919" height="961" alt="1" src="https://github.com/user-attachments/assets/11cb090b-189e-4714-8a8f-0cf0b9b21728" />
 
-<img width="1919" height="1026" alt="Screenshot 2026-03-01 102831" src="https://github.com/user-attachments/assets/1d3d12d2-6e67-45d9-b774-7b1f60405f5f" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-<img width="1919" height="1046" alt="Screenshot 2026-03-01 104042" src="https://github.com/user-attachments/assets/4e440ff0-99de-4be6-96ea-b41b836ef95e" />
+<img width="1919" height="977" alt="2" src="https://github.com/user-attachments/assets/521be9c0-e97b-4383-b703-67a4b57a08a1" />
 
 ---
 
@@ -114,3 +114,4 @@ Test the database server by connecting to it locally or remotely and performing 
 ## Result
 
 This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+](https://github.com/Ashok-S20/Blended-Labs-2025-26-Even/blob/main/Ex.%204%20Working%20with%20EBS/README.md)

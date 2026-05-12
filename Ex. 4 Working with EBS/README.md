@@ -1,4 +1,4 @@
-Elastic Block Store (EBS)
+# Lab 4 – Working with Amazon Elastic Block Store (EBS)
 
 ## Author
 
